@@ -1,0 +1,28 @@
+_repo: La-petite-Cady_73732
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pert, Camille
+    gutenberg_agent_id: '57202'
+    url: http://www.gutenberg.org/2009/agents/57202
+description: ''
+gutenberg_issued: '2024-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73732'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uva.x000315167
+pgterms:marc905: 20230713234410pert
+pgterms:marc906: '1914'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Pierre Lacaze and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bE. Mignot, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La petite Cady
+url: http://www.gutenberg.org/ebooks/73732
