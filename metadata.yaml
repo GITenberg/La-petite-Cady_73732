@@ -1,11 +1,16 @@
 _repo: La-petite-Cady_73732
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73732-h/images/cover.jpg
 creator:
   author:
     agent_name: Pert, Camille
     gutenberg_agent_id: '57202'
     url: http://www.gutenberg.org/2009/agents/57202
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73732#La-petite-Cady
 gutenberg_issued: '2024-05-30'
 gutenberg_type: Text
 identifiers:
